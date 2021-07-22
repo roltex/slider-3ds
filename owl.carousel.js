@@ -1998,7 +1998,7 @@
 	 * @public
 	 */
 	AutoHeight.Defaults = {
-		autoHeight: tue,
+		autoHeight: false,
 		autoHeightClass: 'owl-height'
 	};
 
